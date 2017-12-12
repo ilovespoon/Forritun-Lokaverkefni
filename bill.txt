@@ -1,0 +1,5 @@
+["ASd23","1992","folksbill","Honda","Svartur bill med 120 HP","4 sæti"]:
+["AAA99","2000","jeppi","Toyota","Grar bill med 180 HP","8 sæti"]:
+["pfg29","1989","folksbill","Nissan","Gulur bill med 80 HP","5 sæti"]:
+["AGd25","2008","jeppi","Jeep","Svartur bill med 300 HP","6 sæti"]:
+["sad69","2000","sportsbill","Honda","Raudur bill med 170 HP","2 sæti"]:
